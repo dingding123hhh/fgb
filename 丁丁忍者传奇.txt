@@ -11,7 +11,7 @@ local Window = OrionLib:MakeWindow({Name = "丁丁汉化", HidePremium = false, 
 
 local Back = Window:MakeTab({
 	Name = "『丁丁汉化』",
-	Icon = "rbxassetid://14380684950",
+	Icon = "rbxassetid://16060333448",
 	PremiumOnly = false
 })
 
@@ -24,7 +24,7 @@ Back:AddButton({
 
 local Home = Window:MakeTab({
 	Name = "主要功能",
-	Icon = "rbxassetid://14361559991",
+	Icon = "rbxassetid://16060333448",
 	PremiumOnly = false
 })
 
